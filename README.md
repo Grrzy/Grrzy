@@ -1,5 +1,9 @@
 # Hello, you can call me Lucas 🤙
 
+### If you wish for more info and work i do, visit my website here:
+
+[![Cyclonado Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucas-grzybowski-curriculum.vercel.app/)
+
 ![Cyclonado GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyclonado&show_icons=true&theme=transparent)
 
 #### Aspiring Software and Web Developer, experienced in these technologies:
@@ -12,8 +16,9 @@
 ![Cyclonado skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Cyclonado skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Contact me:
+## Interact with me:
 
 [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-grzybowski-a2b371184)
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgrzybowski/)
 
+[![Spotify Profile](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucasgrzybowski12)
