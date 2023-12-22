@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, you can call me Lucas 🤙
 
-<!--
-**Cyclonado/Cyclonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cyclonado GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyclonado&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+#### Aspiring Software and Web Developer, experienced in these technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cyclonado skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Cyclonado skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Cyclonado skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cyclonado skills](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Cyclonado skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Cyclonado skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Cyclonado skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Contact me:
+
+[![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-grzybowski-a2b371184)
+[![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgrzybowski/)
+[![Mail me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgrzybowski@duck.com)
