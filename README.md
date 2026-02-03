@@ -1,8 +1,5 @@
 # Hello, you can call me Lucas 🤙
 
-
-![Grrzy GitHub stats](https://github-readme-stats.vercel.app/api?username=Grrzy&show_icons=true&theme=transparent)
-
 #### Aspiring Software and Web Developer, experienced in these technologies:
 
 ![Grrzy skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
