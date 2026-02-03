@@ -1,8 +1,5 @@
 # Hello, you can call me Lucas 🤙
 
-### If you wish for more info and work i do, visit my website here:
-
-[![Grrzy Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucas-grzybowski-curriculum.vercel.app/)
 
 ![Grrzy GitHub stats](https://github-readme-stats.vercel.app/api?username=Grrzy&show_icons=true&theme=transparent)
 
