@@ -1,6 +1,6 @@
 # Hello, you can call me Lucas 🤙
 
-#### Aspiring Software and Web Developer
+#### Aspiring Developer
 
 ## You can find me here:
 
